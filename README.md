@@ -1,6 +1,6 @@
-# SideProjects
-My personal side projects!
+# CS2030 Project
 
+My solution created for CS2030's final project, a Discrete Event Simulator
 
 # Project 1: Discrete Event Simulator
 
